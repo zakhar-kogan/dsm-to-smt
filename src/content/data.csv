@@ -1,0 +1,12 @@
+,,A,B,C,D,E,F,G,H,I,J,K
+Kettle,A,A,,,,,,,,,,
+Empty Kettle,B,22,B,,,,,,,,,
+Half Kettle,C,22,,C,,,,,,,,12
+Full Kettle,D,22,,,D,,,,,,,12
+Cup1,E,,,,,E,,,,,,
+Empty Cup1,F,,,,,22,F,,,,,
+Full Cup1,G,,,,,22,,G,,,,12
+Cup2,H,,,,,,,,H,,,
+Empty Cup2,I,,,,,,,,22,I,,
+Full Cup2,J,,,,,,,,22,,J,12
+Filling,K,,,11,11,,111,,,111,,K

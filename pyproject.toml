@@ -1,0 +1,22 @@
+[project]
+name = "dsm-to-smt"
+version = "0.1.0"
+description = "Add your description here"
+authors = [
+    { name = "Zakhar Kogan", email = "36503576+zaharkogan@users.noreply.github.com" }
+]
+dependencies = [
+    "z3-solver>=4.13.0.0",
+    "modin[ray]>=0.31.0",
+    "ipykernel>=6.29.5",
+    "seaborn>=0.13.2",
+    "numpy>=2.0.0",
+]
+readme = "README.md"
+requires-python = ">= 3.8"
+license = { text = "MIT" }
+
+[tool.rye]
+managed = true
+virtual = true
+dev-dependencies = []

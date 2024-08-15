@@ -1,0 +1,15 @@
+,,A,D,I,L,B,C,E,J,M,H,F,N,K,G
+Hand,A,A,,,,,,,,,,,,,
+Stone Pile,D,,D,,,,,,,,,,,,
+Bag1,I,,,I,,,,,,,,,,,
+Bag2,L,,,,L,,,,,,,,,,
+Empty Hand,B,22,,,,B,,,,,,,,,
+Occupied Hand,C,22,,,,,C,,,,,,,,
+2 Stones Stone Pile,E,,22,,,,,E,,,,,,,
+Empty Bag1,J,,,22,,,,,J,,,,,,
+Empty Bag2,M,,,,22,,,,,M,,,,,
+Putting,H,,,,,171,,111,111,111,H,111,,,
+1 Stone Stone Pile,F,,22,,,,,,,,12,F,,,
+Full Bag2,N,,,,22,,,,,,12,,N,,
+Full Bag1,K,,,22,,,,,,,12,,,K,
+Empty Stone Pile,G,,22,,,,,,,,12,,,,G
