@@ -46,6 +46,7 @@ frozenlist==1.4.1
     # via ray
 fsspec==2024.6.1
     # via modin
+gravis==0.1.0
 idna==3.7
     # via requests
 ipykernel==6.29.5
@@ -78,6 +79,7 @@ msgpack==1.0.8
     # via ray
 nest-asyncio==1.6.0
     # via ipykernel
+networkx==3.3
 numpy==2.0.0
     # via contourpy
     # via matplotlib
@@ -140,6 +142,8 @@ rpds-py==0.18.1
     # via jsonschema
     # via referencing
 seaborn==0.13.2
+setuptools==75.1.0
+    # via gravis
 six==1.16.0
     # via asttokens
     # via python-dateutil
@@ -164,4 +168,3 @@ wcwidth==0.2.13
     # via prompt-toolkit
 widgetsnbextension==4.0.13
     # via ipywidgets
-z3-solver==4.13.0.0
